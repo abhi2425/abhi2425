@@ -12,7 +12,7 @@
 
 - 👨‍💻 Beyond programming, I have a deep fascination for subjects like **Human Psychology, Geo-Politics, History, Religion,** and I can't resist a good TV series binge.
 
-- ⚡ Fun fact: I'm a coder who excels in crafting robust solutions; breaking things, not my strong suit! 😄
+- ⚡ Fun fact: I'm not good at breaking things. 😄
   
 - 📫 Feel free to reach out to me at **<abhi.mount.26@gmail.com>** for any inquiries or just to say hello.
 
