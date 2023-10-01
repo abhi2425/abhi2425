@@ -1,4 +1,4 @@
-<h1 align="center">Hey, there I am Abhinav 👋</h1>
+<h1 align="center">Hey there, I am Abhinav 👋</h1>
 <h3 align="center">On a journey to find the ultimate truth of existence through coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2425&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2425" /> </p>
