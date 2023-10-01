@@ -1,13 +1,20 @@
-<h1 align="center">Hey there, I am Abhinav Jha 👋</h1>
-<h3 align="center">On a journey to find the ultimate truth of existence through coding</h3>
+# Hello, I'm Abhinav Jha! 👋
+
+## Embarking on a Quest for the Ultimate Truth of Existence through Coding
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2425&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2425" /> </p>
 
-- 🌱 I’m currently learning **kubernetes**
+- 🔭 I'm currently a **Full Stack Developer** at [Tars Technologies](https://github.com/Tars-Technologies).
 
-- 📫 How to reach me **<abhi.mount.26@gmail.com>**
+- 🎓 I'm a graduate with a Bachelor of Technology degree in **Electronics and Communication Engineering** from [USICT](https://ipu.ac.in/usict/).
 
-- ⚡ Fun fact **I am not good at breaking things 😂**
+- 🌱 I'm on a journey to master **Kubernetes** and the world of containerization.
+
+- 👨‍💻 Beyond programming, I have a deep fascination for subjects like **Human Psychology, Geo-Politics, History, Religion,** and I can't resist a good TV series binge.
+
+- ⚡ Fun fact: I'm a coder who excels in crafting robust solutions; breaking things, not my strong suit! 😄
+  
+- 📫 Feel free to reach out to me at **<abhi.mount.26@gmail.com>** for any inquiries or just to say hello.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,6 +65,12 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Devops</h3>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+</p>
+
 <h3 align="left">Mobile App Development</h3>
 <p align="left">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -72,23 +85,17 @@
 </a>
 </p>
 
-<h3 align="left">Devops</h3>
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-</p>
-
 <h3 align="left">Tools</h3>
 <p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/352px-Z_Shell_Logo_Color_Vertical.svg.png" alt="bash" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 </p>
 
