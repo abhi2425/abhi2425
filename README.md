@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently a **Full Stack Developer** at [Tars Technologies](https://github.com/Tars-Technologies).
 
-- 🎓 I'm a graduate with a Bachelor of Technology degree in **Electronics and Communication Engineering** from [USICT](https://ipu.ac.in/usict/).
+- 🎓 I'm a graduate with a Bachelor of Technology degree in **Electronics and Communication Engineering** from [GGSIPU](http://www.ipu.ac.in/).
 
 - 🌱 I'm on a journey to master **Kubernetes** and the world of containerization.
 
