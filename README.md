@@ -1,7 +1,5 @@
 # Hello, I'm Abhinav Jha! 👋
 
-## Embarking on a Quest for the Ultimate Truth of Existence through Coding
-
 - 🔭 I'm currently a **Full Stack Developer** at [Tars Technologies](https://github.com/Tars-Technologies).
 
 - 🎓 I'm a graduate with a Bachelor of Technology degree in **Electronics and Communication Engineering** from [GGSIPU](http://www.ipu.ac.in/).
