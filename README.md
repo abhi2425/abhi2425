@@ -2,8 +2,6 @@
 
 ## Embarking on a Quest for the Ultimate Truth of Existence through Coding
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2425&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2425" /> </p>
-
 - 🔭 I'm currently a **Full Stack Developer** at [Tars Technologies](https://github.com/Tars-Technologies).
 
 - 🎓 I'm a graduate with a Bachelor of Technology degree in **Electronics and Communication Engineering** from [GGSIPU](http://www.ipu.ac.in/).
@@ -102,7 +100,3 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Z_Shell_Logo_Color_Vertical.svg/352px-Z_Shell_Logo_Color_Vertical.svg.png" alt="bash" width="40" height="40"/>
 </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi2425&show_icons=true&locale=en&layout=compact" alt="abhi2425" /></p>
-
-<p>&nbsp; &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi2425&show_icons=true&locale=en" alt="abhi2425" /></p>
