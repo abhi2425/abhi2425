@@ -4,9 +4,7 @@
 
 - 🎓 I'm a graduate with a Bachelor of Technology degree in **Electronics and Communication Engineering** from [GGSIPU](http://www.ipu.ac.in/).
 
-- 🌱 I'm on a journey to master **Kubernetes** and the world of containerization.
-
-- 👨‍💻 Beyond programming, I have a deep fascination for subjects like **Human Psychology, Geo-Politics, History, Religion,** and I can't resist a good TV series binge.
+- 👨‍💻 Beyond programming, I have a deep fascination for subjects like **Human Psychology, Geo-Politics, History** and I can't resist a good TV series binge.
 
 - ⚡ Fun fact: I'm passionate about having good intellectual discussions. 😄
   
